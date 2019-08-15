@@ -1,3 +1,4 @@
+#include "stdafx.hpp"
 #include "tgadecoder.hpp"
 
 // 9BCD5FD0-93AA-4574-A107-0A7CF1216D0F
